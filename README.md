@@ -1,2 +1,2 @@
 # patron-singleton-formularios
-Uso del patrón de diseño singletón en ventanas en Java (JFrame, JDialog, JDesktopPane, etc)
+Aplicando el patrón de diseño singleton en formularios (JFrame, JDialog, JinternalFrame, JDesktopPane)
